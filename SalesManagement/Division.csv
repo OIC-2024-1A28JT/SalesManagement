@@ -1,0 +1,7 @@
+M_DivisionID,DivisionName,DspFLG,Comments
+1,営業部,TRUE,
+2,販売部,TRUE,2019年より営業部より切り出し
+3,人事部,TRUE,
+4,技術部,TRUE,
+5,総務部,TRUE,
+6,財務部,FALSE,2019年より総務部に統合
